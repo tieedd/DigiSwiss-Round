@@ -1,0 +1,6 @@
+{
+  "name": "DigiSwiss",
+  "description": "Sistem Manajemen Turnamen Swiss Round Digimon TCG mobile-first dengan Google Apps Script, tema cyber Digimon, input skor player, konfirmasi lawan, dan tie-breaker resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
